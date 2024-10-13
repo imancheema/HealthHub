@@ -1,4 +1,4 @@
-# HealthHub : Medical Clinic Database Management System
+# HealthHub: Medical Clinic Database Management System
 
 ## Overview
 HealthHub is a comprehensive relational database system designed to manage the operations of a medical clinic. This system is designed to improve efficiency and communication within a clinic by providing a centralized platform for handling information.
