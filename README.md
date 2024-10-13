@@ -3,6 +3,8 @@
 ## Overview
 HealthHub is a comprehensive relational database system designed to manage the operations of a medical clinic. This system is designed to improve efficiency and communication within a clinic by providing a centralized platform for handling information.
 
+**Technologies:** SQL, Oracle, Oracle APEX, Shell Scripting
+
 ## Features
 - Comprehensive Patient Records: Manage detailed information about patients, including personal details, medical history, and treatment records.
 - Doctor Profiles and Scheduling: Maintain profiles for doctors, including their specialties, contact information, and availability for appointments.
