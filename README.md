@@ -12,6 +12,8 @@ HealthHub is a comprehensive relational database system designed to manage the o
 ## Entity-Relationship Diagram
 The Entity-Relationship (ER) diagram provides a visual representation of the database schema, showcasing key entities, their attributes, and the relationships between them.
 
+![image](https://github.com/user-attachments/assets/3ac80dcf-be64-47ae-91cb-5723a4cc538d)
+
 ## Normalization Process
 To maintain data integrity and reduce redundancy, the database was normalized to Boyce-Codd Normal Form (BCNF). The normalization process included:
 
@@ -25,3 +27,5 @@ The system includes a Unix Shell menu implementation for command-line interactio
 
 ## Oracle APEX Integration
 HealthHub is integrated with Oracle APEX (Application Express) to provide a web-based interface for managing and interacting with the database.
+
+![image](https://github.com/user-attachments/assets/6f70f3aa-4086-4970-a712-50a1a6d565d4)
